@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">directory-type</string>
+    <string name="type_of">Type of&lt;br/>&lt;i>%1$s&lt;/i>&lt;br/>is &lt;br/>&lt;b>%2$s&lt;/b>&lt;br/>&lt;br/>Is directory?&lt;br/>&lt;b>%3$b&lt;/b></string>
+    <string name="mkdirs_failed">mkdirs failed!</string>
+</resources>
